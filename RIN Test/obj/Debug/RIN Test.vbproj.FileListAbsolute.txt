@@ -1,0 +1,13 @@
+c:\users\dmcmillan\documents\visual studio 2013\Projects\RIN Test\RIN Test\bin\Debug\RIN Test.exe.config
+c:\users\dmcmillan\documents\visual studio 2013\Projects\RIN Test\RIN Test\bin\Debug\RIN Test.exe
+c:\users\dmcmillan\documents\visual studio 2013\Projects\RIN Test\RIN Test\bin\Debug\RIN Test.pdb
+c:\users\dmcmillan\documents\visual studio 2013\Projects\RIN Test\RIN Test\bin\Debug\RIN Test.xml
+c:\users\dmcmillan\documents\visual studio 2013\Projects\RIN Test\RIN Test\obj\Debug\RIN_Test.Form1.resources
+c:\users\dmcmillan\documents\visual studio 2013\Projects\RIN Test\RIN Test\obj\Debug\RIN_Test.Resources.resources
+c:\users\dmcmillan\documents\visual studio 2013\Projects\RIN Test\RIN Test\obj\Debug\RIN Test.vbproj.GenerateResource.Cache
+c:\users\dmcmillan\documents\visual studio 2013\Projects\RIN Test\RIN Test\obj\Debug\RIN Test.exe
+c:\users\dmcmillan\documents\visual studio 2013\Projects\RIN Test\RIN Test\obj\Debug\RIN Test.xml
+c:\users\dmcmillan\documents\visual studio 2013\Projects\RIN Test\RIN Test\obj\Debug\RIN Test.pdb
+c:\users\dmcmillan\documents\visual studio 2013\Projects\RIN Test\RIN Test\bin\Debug\TeeChart.dll
+c:\users\dmcmillan\documents\visual studio 2013\Projects\RIN Test\RIN Test\bin\Debug\TeeChart.xml
+c:\users\dmcmillan\documents\visual studio 2013\Projects\RIN Test\RIN Test\obj\Debug\RIN Test.exe.licenses
